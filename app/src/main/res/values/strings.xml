@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Study Jams Price Checker</string>
+    <string name="barcodelabel">Штрихкод</string>
+    <string name="warenamelabel">Наименование</string>
+    <string name="pricelabel">Цена</string>
+    <string name="nodata">Нет данных</string>
+    <string name="emptystring">-</string>
+    <string name="updatedata">Загрузить данные</string>
+    <string name="off_line">Off-line режим</string>
+</resources>
